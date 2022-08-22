@@ -17,7 +17,8 @@ on:
   pull_request:
     # The branches below must be a subset of the branches above
     branches: [ "7.0-SNAPSHOT" ]
-
+  schedule:
+    - cron: '30 6,18 * * *'
 
 jobs:
   analyze:
