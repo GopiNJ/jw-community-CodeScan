@@ -1,6 +1,6 @@
 # Code Scan & Review with CodeQL
 
-![](https://github.com/ossrs/srs/workflows/CodeQL/badge.svg)
+![](https://github.com/GopiNJ/jw-community-CodeScan/workflows/CodeQL/badge.svg)
 
 **Joget** is a next generation **open source no-code / low-code application platform** for faster, simpler digital transformation (DX).
 
