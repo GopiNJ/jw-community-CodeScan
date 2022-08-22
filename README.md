@@ -7,11 +7,5 @@ Code sample: https://github.com/GopiNJ/jw-community-CodeScan/blob/7.0-SNAPSHOT/.
 
 # Sample findings and remediations
 
-https://github.com/GopiNJ/jw-community-CodeScan/security/code-scanning/93
 
-https://github.com/GopiNJ/jw-community-CodeScan/security/code-scanning/110
-
-https://github.com/GopiNJ/jw-community-CodeScan/security/code-scanning/94
-
-https://github.com/GopiNJ/jw-community-CodeScan/security/code-scanning/9
 
