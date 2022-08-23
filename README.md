@@ -11,7 +11,7 @@
 
 ## Results and Summary
 ### Total of 122 alerts were flagged by the CodeQL scanning tool specifically related to Javascript based sample codes found within the target repository.
-![image](https://user-images.githubusercontent.com/95695894/186065125-ffb63d16-7a24-4343-bf83-44a1c06766eb.png)
+![image](https://user-images.githubusercontent.com/95695894/186072680-dee8e7c0-ea06-4d51-9912-3b643a1dfc59.png)
 
 ## Sample findings and remediations
 ### 5 common types of code vulnerabilities stating type, severity and remediation steps required to fix listed below for reference purpose. 
