@@ -2,7 +2,12 @@
 ## Test scenario
 `Environment:` GitHub Repository  
 `Scan tool:` CodeQL  
-`Target:` https://github.com/GopiNJ/jw-community-CodeScan
+`Target:` https://github.com/GopiNJ/jw-community-CodeScan  
+## Scanning Method
+`Scanning method used`: Static Application Security Testing (SAST)  
+
+Inline with security programs best practises to be adapted in early stages of Software Development Lifecycle (SDLC), Static Application Security Testing (SAST) is often carried out on the source code without actually running it and reviews the way the code is written and points out any security risks. By analyzing the code in real time, it becomes easier for the developer to watch out for any problems that can impact the security of the code from begining of the development itself. 
+
 ## CodeQL configs  
 ### CodeQL scan tool was setup via Github actions and configured to scan only 'Javascript' related vulnerabilities on jw-community repo (forked from Jogetworkflow). Addtionally, cron job was set to continuously scan repo every day at 0630 & 1830 respectively.
 ![image](https://user-images.githubusercontent.com/95695894/186065367-f8f74ace-afa5-47be-bd2a-44ed4776168f.png)
@@ -30,3 +35,7 @@
 #### `Sample 5:`
 ![image](https://user-images.githubusercontent.com/95695894/186068973-7b6cf141-6527-4cf4-9cf9-634677a6df21.png)
 ---
+## References
+https://codeql.github.com/  
+https://codeql.github.com/docs/  
+https://cwe.mitre.org/index.html  
