@@ -44,7 +44,7 @@ jobs:
     - name: Initialize CodeQL
       uses: github/codeql-action/init@v2
       with:
-          db-location: '${{ https://github.com/GopiNJ/jw-community-CodeScan/tree/7.0-SNAPSHOT/.github/workflows }}/codeql_dbs'
+          db-location: '${{ /.github/workflows }}/codeql_dbs'
       with:
         languages: ${{ matrix.language }}
         # If you wish to specify custom queries, you can do so here or in a config file.
