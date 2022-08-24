@@ -36,8 +36,8 @@ Inline with security programs best practises to be adapted in early stages of So
 ![image](https://user-images.githubusercontent.com/95695894/186068973-7b6cf141-6527-4cf4-9cf9-634677a6df21.png)
 ---
 ## Additional tasks in progress  
-1. List of alerts extraction from CodeQL via API calls - Due to no options available to directly export list of alerts from GitHub, currently exploring API / other methods to extract to alerts to assist with proper reporting format.
-2. Configuring SonarCloud tool - To explore additional code vulnerability management services and reporting structures offered.  
+1. List of `alerts extraction from CodeQL via API calls` - Due to no options available to directly export list of alerts from GitHub, currently exploring API / other methods to extract to alerts to assist with proper reporting format.
+2. `Configuring SonarCloud tool` - To explore additional code vulnerability management services and reporting structures offered via this tool.
 ## References
 https://codeql.github.com/  
 https://codeql.github.com/docs/  
