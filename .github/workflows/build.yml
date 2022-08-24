@@ -1,6 +1,5 @@
 name: Build
 on: push
-name: Main Workflow
 jobs:
   build:
     name: Compile and Test
